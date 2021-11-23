@@ -9,3 +9,4 @@ dependencies:
     - gsw
     - pandas
     - matplotlib
+    - openpyxl
