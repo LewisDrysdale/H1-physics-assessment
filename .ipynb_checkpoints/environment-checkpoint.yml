@@ -6,7 +6,7 @@ dependencies:
   - numpy
   - pip
   - pip:
-    - seawater
+    - gsw
     - pandas
     - matplotlib
     - openpyxl
